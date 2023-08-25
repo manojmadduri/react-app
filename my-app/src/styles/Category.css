@@ -1,3 +1,11 @@
+*,
+*::after,
+*::before {
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+
 .category{
     width: 100%;
     height: 100vh;
@@ -6,6 +14,7 @@
     justify-content: center;
     align-items: center;
 }
+
 .food-img{
     display: flex;
 }
@@ -24,8 +33,8 @@ height: 295px;
 height: 295px;
     padding:0 20px 0 20px;
 }
-.category h1{
-    padding-bottom: 50px;
+.tof > h1{
+    padding-bottom: 30px;
     text-align: center;
     font-size: 2.5rem;
     font-weight: 400;
@@ -33,3 +42,103 @@ height: 295px;
     text-transform: uppercase;
     color: #555;
 }
+
+
+.learn-more > h1{
+    font-size: 2.2rem;
+    color: white;
+    padding-bottom: 5px;
+}
+.learn-more > a{
+    text-decoration: none;
+}
+.learn-more > a > button{
+    text-decoration: none;
+    background-color: #16a083;
+    color: white;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 20px;
+    font-size: 1.4rem;
+    width: 100%;
+}
+
+.learn-more > a >button:hover{
+    cursor: pointer;
+}
+.img-container{
+    
+    position: relative;
+    display: inline-block;
+}
+.img-container .learn-more{
+    transition: 0.5s ease;
+    overflow: hidden;
+    position: absolute;
+    top: 300%;
+    left: 5%;
+    z-index: 99;
+    background: rgba(0, 0, 0, 0.871);
+    width: 380px;
+    height: 296px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.img-container:hover .learn-more{
+    top: 0%;
+}
+
+
+
+.learn-more2 > h1{
+    font-size: 2.2rem;
+    color: white;
+    padding-bottom: 5px;
+}
+.learn-more2 > a{
+    text-decoration: none;
+}
+.learn-more2 > a > button{
+    text-decoration: none;
+    background-color: #16a083;
+    color: white;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 20px;
+    font-size: 1.4rem;
+    width: 100%;
+}
+
+.learn-more2 > a >button:hover{
+    cursor: pointer;
+}
+.img-container{
+    
+    position: relative;
+    display: inline-block;
+}
+.img-container .learn-more2{
+    transition: 0.5s ease;
+    overflow: hidden;
+    position: absolute;
+    top: 300%;
+    left: 200%;
+    z-index: 99;
+    background: rgba(0, 0, 0, 0.871);
+    width: 400px;
+    height: 296px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.img-container:hover .learn-more2{
+    top: 0%;
+}
+
