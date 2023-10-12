@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "http://manojmadduri.github.io/RESTURANT-REACT-APP",
+  "homepage": "http://manojmadduri.github.io/ Resturant-React-App",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
