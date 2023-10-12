@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/RESTURANT-REACT-APP/static/css/main.9b3a4beb.css",
+    "main.js": "/RESTURANT-REACT-APP/static/js/main.d4e4f49c.js",
+    "static/media/pexels-ekaterina-bolovtsova-5393594.jpg": "/RESTURANT-REACT-APP/static/media/pexels-ekaterina-bolovtsova-5393594.123f15817c0e35e6a77a.jpg",
+    "static/media/yH1aFs.jpg": "/RESTURANT-REACT-APP/static/media/yH1aFs.b8315ae8e3c1924e2ff8.jpg",
+    "static/media/pexels-monstera-5876695.jpg": "/RESTURANT-REACT-APP/static/media/pexels-monstera-5876695.0985b1584891a3009f2c.jpg",
+    "static/media/pexels-pixabay-415829.jpg": "/RESTURANT-REACT-APP/static/media/pexels-pixabay-415829.bffa722f3a826f967406.jpg",
+    "static/media/food2.jpg": "/RESTURANT-REACT-APP/static/media/food2.2efa05977bfcd2d07677.jpg",
+    "static/media/food1.jpg": "/RESTURANT-REACT-APP/static/media/food1.fe4485e5f62623e1e738.jpg",
+    "static/media/food3.jpg": "/RESTURANT-REACT-APP/static/media/food3.851af34970d6859db26c.jpg",
+    "static/media/restraunt2.jpg": "/RESTURANT-REACT-APP/static/media/restraunt2.e2a2e445c079cb4049e8.jpg",
+    "static/media/about-photo.jpg": "/RESTURANT-REACT-APP/static/media/about-photo.1b5753bec6e5459d232f.jpg",
+    "static/media/food-menu5.jpg": "/RESTURANT-REACT-APP/static/media/food-menu5.1fc3b969ebc644b6d4ef.jpg",
+    "static/media/food-menu6.jpg": "/RESTURANT-REACT-APP/static/media/food-menu6.5f2ee7b1177bed9caaef.jpg",
+    "static/media/food-menu3.jpg": "/RESTURANT-REACT-APP/static/media/food-menu3.c78df23d3d571753281d.jpg",
+    "static/media/food-menu4.jpg": "/RESTURANT-REACT-APP/static/media/food-menu4.0fac6a20557d20cec77b.jpg",
+    "static/media/food-menu2.jpg": "/RESTURANT-REACT-APP/static/media/food-menu2.f13182cd77953b674d74.jpg",
+    "static/media/food-menu1.jpg": "/RESTURANT-REACT-APP/static/media/food-menu1.b52dcdefcd6ebe96abf0.jpg",
+    "index.html": "/RESTURANT-REACT-APP/index.html",
+    "main.9b3a4beb.css.map": "/RESTURANT-REACT-APP/static/css/main.9b3a4beb.css.map",
+    "main.d4e4f49c.js.map": "/RESTURANT-REACT-APP/static/js/main.d4e4f49c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b3a4beb.css",
+    "static/js/main.d4e4f49c.js"
+  ]
+}
